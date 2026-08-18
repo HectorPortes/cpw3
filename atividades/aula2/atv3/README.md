@@ -1,0 +1,11 @@
+const produtos = [
+{ id: 1, nome: "Notebook", preco: 3500 },
+{ id: 2, nome: "Mouse", preco: 80 },
+{ id: 3, nome: "Teclado", preco: 150 },
+{ id: 4, nome: "Monitor", preco: 1200 }
+];
+
+GET /produtos
+GET /produtos/:id
+GET /caros → preco > 1000
+GET /baratos → preco < 200
