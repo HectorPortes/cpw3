@@ -22,9 +22,29 @@ app.get('/historico', (req, res) => {
   }
   const conteudo = fs.readFileSync('diario.txt', 'utf8')
   res.send(`
-    <h1>Histórico</h1>
-    <pre>${conteudo}</pre>
-    <a href="/">Enviar Nova Anotação</a>  
+    <h1 style="
+      display: flex;
+      justify-content: center;
+      margin: auto;
+      padding: 10px;
+    ">Histórico</h1>
+    <div style="
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      padding: 1%;
+      border: 1px solid black;
+      border-radius: 1cap;
+      width: fit-content;
+      margin-right: auto;
+      margin-left: auto;
+      background-color: white;
+    "><pre>${conteudo}</pre></div>
+    <a href="/" style="
+      display: flex;
+      justify-content: center;
+      padding: 10px;
+    ">Enviar Nova Anotação</a>  
   `)
 })
 
