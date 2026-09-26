@@ -32,7 +32,7 @@
 >
 > **7. Instale o Express no projeto.**
 
-![Atividade 6 e 7](/images/atv_6_e_7.png)
+![Atividade 6 e 7](./images/atv_6_e_7.png)
 
 ### **Questões 8 a 10**
 > **8. Crie o arquivo server.js e importe/configure o Express.**
@@ -41,7 +41,7 @@
 >
 > **10. Crie a rota GET / que retorne uma mensagem informando que a API está funcionando.**
 
-![Atividade 8 a 10](/images/atv_8_a_10.png)
+![Atividade 8 a 10](./images/atv_8_a_10.png)
 
 </details>
 
@@ -152,7 +152,7 @@ app.post('/login', (req, res) => {
 >
 > **21. Teste GET /jogos no Postman.**
 
-![Questões 19 a 21](/images/atv_19_a_21.png)
+![Questões 19 a 21](./images/atv_19_a_21.png)
 
 ### **Questões 22 a 26**
 > **22. Crie GET /jogos/:id para buscar apenas um jogo pelo ID.**
@@ -165,7 +165,7 @@ app.post('/login', (req, res) => {
 >
 > **26. Teste no Postman um ID existente e um ID inexistente.**
 
-![Questões 22 a 26](/images/atv_22_a_26.png)
+![Questões 22 a 26](./images/atv_22_a_26.png)
 
 </details>
 
