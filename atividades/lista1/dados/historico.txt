@@ -1,0 +1,6 @@
+JOGO NOVO CADASTRADO: {id: 4, titulo: League of Legends, genero: Moba, ano: 2009, nota: 2}
+[
+JOGO ANTES DE ATUALIZADO: {id: 4, titulo: League of Legends, genero: Moba, ano: 2009, nota: 2},
+JOGO DEPOIS DE ATUALIZADO: {id: 4, titulo: Valorant, genero: FPS, ano: 2020, nota: 2}
+]
+JOGO EXCLUIDO: {id: 4, titulo: Valorant, genero: FPS, ano: 2020, nota: 2}

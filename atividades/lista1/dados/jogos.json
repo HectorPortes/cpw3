@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "titulo": "The Elder Scrolls V: Skyrim",
+    "genero": "RPG",
+    "ano": 2011,
+    "nota": 10
+  },
+  {
+    "id": 2,
+    "titulo": "Dishonored",
+    "genero": "Ação",
+    "ano": 2012,
+    "nota": 10
+  },
+  {
+    "id": 3,
+    "titulo": "Warframe",
+    "genero": "Looter-Shooter",
+    "ano": 2013,
+    "nota": 10
+  }
+]
